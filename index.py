@@ -133,6 +133,6 @@ if st.button("Convert"):
 
                 # Display the result
     st.markdown(f'<div class="result">{value} {unit1} is equal to {result} {unit2}</div>', unsafe_allow_html=True)
-    st.write(f"{value} {unit1} is equal to {result} {unit2}")
+    
 
 
